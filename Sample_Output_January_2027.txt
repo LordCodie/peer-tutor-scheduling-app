@@ -1,0 +1,144 @@
+=== Fair Participant Scheduling System ===
+
+Enter the month (for example January): January
+Enter the year (for example 2027): 2027
+
+PUBLIC HOLIDAYS IN THE SCHEDULING PERIOD (01/01/2027 to 28/02/2027)
+  01/01/2027  Friday     New Year's Day  [SKIPPED - no sessions scheduled]
+  (No other public holidays fall in January or February 2027.)
+
+SCHEDULE (group sessions are shown in cyan)
++------------+-----------+--------------+------------+----------+--------------------------------------------------+----------+
+| Date       | Day       | Session Type | Start Time | End Time | Participants                                     | Duration |
++------------+-----------+--------------+------------+----------+--------------------------------------------------+----------+
+| 04/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Mthandeni                                        | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Garven                                           | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Philani                                          | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Junior                                           | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Nokthula                                         | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Mphumelelo                                       | 6        |
+| 04/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Mbali                                            | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Av                                               | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Gomotsegang                                      | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Mthandeni                                        | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Garven                                           | 6        |
+| 05/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Philani                                          | 6        |
+| 06/01/2027 | Wednesday | Group        | 09:00      | 15:00    | Thulani, Katlego, Junior, Nokthula, Mphumelelo   | 6        |
+| 06/01/2027 | Wednesday | One-on-One   | 09:00      | 15:00    | Mbali                                            | 6        |
+| 06/01/2027 | Wednesday | One-on-One   | 10:00      | 16:00    | Av                                               | 6        |
+| 07/01/2027 | Thursday  | Group        | 10:00      | 16:00    | Mthandeni, Garven, Gomolemo, Bafana, Gomotsegang | 6        |
+| 07/01/2027 | Thursday  | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 07/01/2027 | Thursday  | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Philani                                          | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Junior                                           | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Nokthula                                         | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Mphumelelo                                       | 6        |
+| 08/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Mbali                                            | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Av                                               | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Gomotsegang                                      | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Mthandeni                                        | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Garven                                           | 6        |
+| 11/01/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Philani                                          | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Junior                                           | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Nokthula                                         | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Mphumelelo                                       | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Mbali                                            | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Av                                               | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 12/01/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 13/01/2027 | Wednesday | Group        | 09:00      | 15:00    | Philani, Mthandeni, Garven, Thulani, Katlego     | 6        |
+| 13/01/2027 | Wednesday | One-on-One   | 09:00      | 15:00    | Gomotsegang                                      | 6        |
+| 13/01/2027 | Wednesday | One-on-One   | 10:00      | 16:00    | Junior                                           | 6        |
+| 14/01/2027 | Thursday  | Group        | 10:00      | 16:00    | Mbali, Av, Nokthula, Mphumelelo, Gomolemo        | 6        |
+| 14/01/2027 | Thursday  | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 14/01/2027 | Thursday  | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Gomotsegang                                      | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Mthandeni                                        | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Garven                                           | 6        |
+| 15/01/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Philani                                          | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Junior                                           | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Nokthula                                         | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Mphumelelo                                       | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Mbali                                            | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Av                                               | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 01/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Gomotsegang                                      | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Mthandeni                                        | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Garven                                           | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Philani                                          | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Junior                                           | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Nokthula                                         | 6        |
+| 02/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Mphumelelo                                       | 6        |
+| 03/02/2027 | Wednesday | Group        | 09:00      | 15:00    | Mbali, Av, Bafana, Gomotsegang, Thulani          | 6        |
+| 03/02/2027 | Wednesday | One-on-One   | 09:00      | 15:00    | Katlego                                          | 6        |
+| 03/02/2027 | Wednesday | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 04/02/2027 | Thursday  | Group        | 10:00      | 16:00    | Philani, Junior, Mthandeni, Garven, Katlego      | 6        |
+| 04/02/2027 | Thursday  | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 04/02/2027 | Thursday  | One-on-One   | 10:00      | 16:00    | Nokthula                                         | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Mphumelelo                                       | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Mbali                                            | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Av                                               | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 10:00      | 16:00    | Gomolemo                                         | 6        |
+| 05/02/2027 | Friday    | One-on-One   | 09:00      | 15:00    | Bafana                                           | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Gomotsegang                                      | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Mthandeni                                        | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Garven                                           | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Philani                                          | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Junior                                           | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 10:00      | 16:00    | Nokthula                                         | 6        |
+| 08/02/2027 | Monday    | One-on-One   | 09:00      | 15:00    | Mphumelelo                                       | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Mbali                                            | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Av                                               | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Gomolemo                                         | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Bafana                                           | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Gomotsegang                                      | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 10:00      | 16:00    | Mthandeni                                        | 6        |
+| 09/02/2027 | Tuesday   | One-on-One   | 09:00      | 15:00    | Garven                                           | 6        |
+| 10/02/2027 | Wednesday | Group        | 09:00      | 15:00    | Philani, Junior, Nokthula, Mphumelelo, Mbali     | 6        |
+| 10/02/2027 | Wednesday | One-on-One   | 09:00      | 15:00    | Thulani                                          | 6        |
+| 10/02/2027 | Wednesday | One-on-One   | 10:00      | 16:00    | Katlego                                          | 6        |
+| 11/02/2027 | Thursday  | Group        | 10:00      | 16:00    | Av, Gomolemo, Bafana, Gomotsegang                | 6        |
++------------+-----------+--------------+------------+----------+--------------------------------------------------+----------+
+
+PARTICIPANT SUMMARY
++-------------+--------------+-------------+----------------+---------------------+----------------+-----------+
+| Participant | Service Days | Total Hours | Group Sessions | One-on-One Sessions | Remaining Days | Status    |
++-------------+--------------+-------------+----------------+---------------------+----------------+-----------+
+| Mthandeni   | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Garven      | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Philani     | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Thulani     | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Katlego     | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Junior      | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Nokthula    | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Mphumelelo  | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Mbali       | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Av          | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Gomolemo    | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Bafana      | 10           | 60          | 3              | 7                   | 0              | Completed |
+| Gomotsegang | 10           | 60          | 3              | 7                   | 0              | Completed |
++-------------+--------------+-------------+----------------+---------------------+----------------+-----------+
+
+FAIRNESS REPORT
+  Service days : highest 10, lowest 10, difference 0
+  Total hours  : highest 60, lowest 60, difference 0
+  Group sessions     : highest 3, lowest 3, difference 0 (allowed: 1)
+  One-on-one sessions: highest 7, lowest 7, difference 0
+  RESULT: All fairness requirements were achieved.
+
+VALIDATION: all checks passed (no rule violations found).
+
+Word document saved to:
+  ...\bin\Debug\net8.0\Monthly_Schedule_January_2027.docx
